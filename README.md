@@ -1,7 +1,7 @@
 ### Hi, I'm Luis Sante, a student of University National of San Agustin 👋
 -------------
 
-### Skills
+Skills
 -------------
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -23,15 +23,15 @@ My statistics
 ![LuisSante's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisSante)
 ![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSante&layout=compact&langs_count=10&theme=white)
 
-## My trophies
+My trophies
 -------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=LuisSante&theme=darkhub&&row=1&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Socials
+Socials
 -------------
 <p align="left"> <a href="https://www.facebook.com/luis.santetaipe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/LuisSante" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
-## Contact me
+Contact me
 -------------
 [![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lsantet@unsa.edu.pe)
 [![gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark)](mailto:luissante123@gmail.com)
