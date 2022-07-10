@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Luis Sante, a student of University National of San Agustin 👋
 
 <!--
 **LuisSante/LuisSante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
